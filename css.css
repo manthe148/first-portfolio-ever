@@ -1,0 +1,56 @@
+	.header{
+		background-color: #aaaaaa;
+		text-align: left;
+		height: 75px;
+		width: 100%;
+		font-family: 'Anton', sans-serif;
+		
+		
+		
+	}
+	span{
+		float: right;
+	}
+
+	body{
+		background-color: #90C3D4;
+	}
+	.icons{
+		text-align: center;
+	}
+	.slide1{
+		background-image: url(https://i.imgur.com/ZsaGUlJ.jpg?1);
+		background-position: center;
+		background-repeat: no-repeat;
+		height: 500px;
+		width: 75%;
+		padding-left: 25%;
+	}
+	.slide3{
+		background-image: url(https://i.imgur.com/i3mirpl.jpg?1);
+		height: 500px;
+		width: 75%;
+		padding-left: 25%;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+	.container{
+		
+
+	}
+
+	
+	.header #name{
+		display: inline-block;
+		/*padding-top: 11px;*/
+	}
+	#git{
+		padding-right: 48px;
+	}
+	#face{
+		margin-left: 48px;
+		padding-right: 48px;
+	}
+	#link{
+		padding-left: 48px;
+	}
