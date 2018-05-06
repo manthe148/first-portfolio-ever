@@ -1,0 +1,46 @@
+@media screen{
+html, main, body{
+    margin-top: 15px;
+}
+
+.header{
+    border-bottom: 3px solid grey;
+    border-width: 100%;
+    overflow: hidden;
+    box-shadow: 5px 5px 6px #aaaaaa;
+
+}
+.indent{
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+#me{
+	margin: 10px 0px 10px 0px;
+   	width: 100%;
+    height: auto;
+    border-radius: 15px 15px 15px 15px;
+  
+
+}
+#name{
+    font-style: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+    margin-bottom: 10px;
+}
+#title{
+    text-align: center;
+    margin-top: 5px;
+    
+}
+#logo{
+   border-radius: 15px 15px 15px 15px;
+}
+#flex{
+	text-align: center;
+	
+	display: flex;
+	flex-direction: column;
+}
+
+
+}
