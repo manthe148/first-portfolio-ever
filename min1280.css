@@ -1,8 +1,10 @@
 @media screen and (min-width: 1280px){
-	html, main, body{
+html, main, body{
     margin-top: 15px;
 }
-
+footer{
+	text-align: center;
+}
 .header{
     border-bottom: 3px solid grey;
     border-width: 100%;
@@ -12,33 +14,53 @@
 }
 .indent{
     padding: 10px 10px 10px 10px;
+    text-align: center;
 }
-#me{
-
-    float: left;
-    height: 100px;
+.links{
+	padding-bottom: 10px;
+}
+#logo{
+	float: left;
+	width: 50px;
+	height: 50px;
     border-radius: 15px 15px 15px 15px;
-    margin-bottom: 15px;
-
+}
+#flex{
+	text-align: center;
+	display: flex;
+	flex-direction: row;
 }
 #name{
-    float: right;
-    font-style: 40px;
-    font-family: 'Skranji', cursive;
-    margin-bottom: 10px;
+	float: right;
+    font-family: 'Do Hyeon', sans-serif;
+    margin: 1px 0px 10px 10px;
+    border-bottom-style: double;
 }
 #title{
     text-align: center;
     margin-top: 5px;
     
 }
-#logo{
-    margin-left: 25%;
+#me{
+	  margin: 10px 0px 10px 0px;
+   	  width: 100%;
+      height: auto;
+      border-radius: 15px 15px 15px 15px;
+ }
+#projects{
+	  font-family: 'Do Hyeon', sans-serif;
+	  border-style: groove;
+	  /*border-bottom: 1px;*/
 }
-#flex{
-	float: right;
-	display: flex;
-	flex-direction: column;
+#project1{
+	width: 100%;
+	height: auto;
+}
+#git{
+	padding-right: 48px;
+}
+#link{
+	padding-left: 48px;
 }
 
 }

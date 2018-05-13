@@ -1,8 +1,10 @@
-@media screen{
+@media screen and (max-width: 632px){
 html, main, body{
     margin-top: 15px;
 }
-
+footer{
+	text-align: center;
+}
 .header{
     border-bottom: 3px solid grey;
     border-width: 100%;
@@ -14,33 +16,51 @@ html, main, body{
     padding: 10px 10px 10px 10px;
     text-align: center;
 }
-#me{
-	margin: 10px 0px 10px 0px;
-   	width: 100%;
-    height: auto;
+.links{
+	padding-bottom: 10px;
+}
+#logo{
+	float: left;
+	width: 50px;
+	height: 50px;
     border-radius: 15px 15px 15px 15px;
-  
-
+}
+#flex{
+	text-align: center;
+	display: flex;
+	flex-direction: row;
 }
 #name{
-    font-style: 25px;
+	float: right;
     font-family: 'Do Hyeon', sans-serif;
-    margin-bottom: 10px;
+    margin: 1px 0px 10px 10px;
+    border-bottom-style: double;
 }
 #title{
     text-align: center;
     margin-top: 5px;
     
 }
-#logo{
-   border-radius: 15px 15px 15px 15px;
+#me{
+	  margin: 10px 0px 10px 0px;
+   	  width: 100%;
+      height: auto;
+      border-radius: 15px 15px 15px 15px;
+ }
+#projects{
+	  font-family: 'Do Hyeon', sans-serif;
+	  border-style: groove;
+	  /*border-bottom: 1px;*/
 }
-#flex{
-	text-align: center;
-	
-	display: flex;
-	flex-direction: column;
+#project1{
+	width: 100%;
+	height: auto;
 }
-
+#git{
+	padding-right: 48px;
+}
+#link{
+	padding-left: 48px;
+}
 
 }
