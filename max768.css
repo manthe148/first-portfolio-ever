@@ -7,6 +7,9 @@ footer{
 	border-style: groove;
 	padding-top: 25px;
 }
+.font{
+	font-family: 'Do Hyeon', sans-serif;
+}
 .header{
     border-bottom: 3px solid grey;
     border-width: 100%;

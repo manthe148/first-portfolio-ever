@@ -5,6 +5,9 @@ html, main, body{
 footer{
 	text-align: center;
 }
+.font{
+	font-family: 'Do Hyeon', sans-serif;
+}
 .header{
     border-bottom: 3px solid grey;
     border-width: 100%;
