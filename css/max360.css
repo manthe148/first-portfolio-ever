@@ -1,5 +1,7 @@
 @media screen{
-html, main, body{
+html,
+main,
+body{
     margin-top: 15px;
 }
 footer{
@@ -22,6 +24,7 @@ footer{
 .links{
 	padding-bottom: 10px;
 }
+s
 #logo{
 	float: left;
 	width: 50px;
@@ -34,7 +37,8 @@ footer{
 	flex-direction: row;
 }
 #name{
-	float: right;
+	display: flex;
+	flex-direction: row;
     font-family: 'Do Hyeon', sans-serif;
     margin: 1px 0px 10px 10px;
     border-bottom-style: double;
@@ -50,11 +54,7 @@ footer{
       height: auto;
       border-radius: 15px 15px 15px 15px;
  }
-#projects{
-	  font-family: 'Do Hyeon', sans-serif;
-	  border-style: groove;
-	  /*border-bottom: 1px;*/
-}
+
 #project1{
 	width: 100%;
 	height: auto;
