@@ -1,0 +1,860 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cot",
+				"const"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"first",
+				"firstClick"
+			],
+			[
+				"st",
+				"startTimer"
+			],
+			[
+				"star",
+				"starContainer"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"start",
+				"startGame"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"c",
+				"createElement"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"mat",
+				"matchedCards"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"m",
+				"modal"
+			],
+			[
+				"win",
+				"winW"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"custo",
+				"customAlert"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"timer",
+				"timer-output"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"fin",
+				"finished"
+			],
+			[
+				"cus",
+				"customAlert"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"stra",
+				"startTimer"
+			],
+			[
+				"to",
+				"totalTime"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"move",
+				"moveContainer"
+			],
+			[
+				"str",
+				"starContainer"
+			],
+			[
+				"card",
+				"cardContainer"
+			],
+			[
+				"sta",
+				"starContainer"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"cou",
+				"countTimer"
+			],
+			[
+				"cl",
+				"clickingCards"
+			],
+			[
+				"curr",
+				"currentMoves"
+			],
+			[
+				"fa",
+				"fa-star"
+			],
+			[
+				"MOVES",
+				"moves"
+			],
+			[
+				"se",
+				"seconds"
+			],
+			[
+				"clc",
+				"click"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"create",
+				"createCards"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ran",
+				"randomIndex"
+			],
+			[
+				"random",
+				"randomIndex"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"p",
+				"previousCard"
+			],
+			[
+				"ma",
+				"matchedCards"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"ca",
+				"cardContainer"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"open",
+				"openCards"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"ge",
+				"getElementsByClassName"
+			],
+			[
+				"s",
+				"shuffledCards"
+			],
+			[
+				"f",
+				"for\tfor (…) {…}"
+			],
+			[
+				"displ",
+				"displayCard"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fa-",
+				"fa-3x"
+			],
+			[
+				"Anim",
+				"Animal-Card"
+			],
+			[
+				"d",
+				"double\tborder-bottom-style"
+			],
+			[
+				"border-",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"font-f",
+				"font-family"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"t",
+				"transition"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"fl",
+				"flex-flow"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"im",
+				"image-rendering"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"sl",
+				"slide2"
+			],
+			[
+				"inp",
+				"inputHeight"
+			],
+			[
+				"si",
+				"sizePicker"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"Ala",
+				"Alaska"
+			],
+			[
+				"A",
+				"Arizona"
+			],
+			[
+				"ala",
+				"alabama"
+			],
+			[
+				"n",
+				"nine"
+			],
+			[
+				"ra",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ea",
+				"eatsAnimals"
+			],
+			[
+				"e",
+				"eatsAnimals"
+			],
+			[
+				"eats",
+				"eatsPlants"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3485,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/pixel.html",
+		"/C/Users/mattm/Desktop/githib/js/app.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/index.html",
+		"/C/Users/mattm/Desktop/githib/css/app.css",
+		"/C/Users/mattm/Desktop/githib/index.html",
+		"/C/Users/mattm/Desktop/githib/.gitignore",
+		"/C/Users/mattm/Desktop/githib/README.md",
+		"/C/Users/mattm/Desktop/web dev boot camp/java script/while loop/annoy.js",
+		"/C/Users/mattm/Desktop/.bash_profile",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/fend-project-memory-game/js/app.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/fend-project-memory-game/index.html",
+		"/C/Users/mattm/.bash_profile",
+		"/C/Users/mattm/.gitconfig",
+		"/C/Users/mattm/Desktop/Package Control.sublime-package",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/fend-project-memory-game/css/app.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/css/max360.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/css/max768.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/css/min1280.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/js/js.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/js/designs.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/fend-project-memory-game/CONTRIBUTING.md",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/fend-project-memory-game/img/geometry2.png",
+		"/C/Users/mattm/Desktop/udacity-git-course/new-git-project/course-git-blog-project/README.md",
+		"/C/Users/mattm/.bash_history",
+		"/C/Program Files/Git/cmd/git-gui.exe",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/javascript/css.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/javascript/cal-html.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/javascript/calculator/css.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/javascript/calculator/index.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/javascript/js.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/animal.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/max360.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/js.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/min1280.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/max768.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/javascript/index.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/RWDF L2 Start/Start/small.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/RWDF L2 Start/Start/main.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/RWDF L2 Start/Start/index.html",
+		"/C/Users/mattm/Desktop/manthe148.github.io/max360.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/Animal-Card/styles.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/Animal-Card/project1.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/css.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/RWDF L2 Start/Start/js.js",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/manthe148.github.io/over880px.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio udacity/css.css",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio udacity/index.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfilio/index.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/portfolio/index.html",
+		"/C/Users/mattm/Desktop/udacity-nanodegree/pattern-mostly-fluid-quiz-blankcss/pattern-mostly-fluid-quiz-blankcss.html",
+		"/C/Users/mattm/Desktop/project-pixel-art-maker-starter-master/project-pixel-art-maker-starter-master/html.html",
+		"/C/Users/mattm/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/mattm/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/mattm/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/mattm/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/mattm/Desktop/project-pixel-art-maker-starter-master/project-pixel-art-maker-starter-master/designs.js",
+		"/C/Users/mattm/Desktop/web dev boot camp/New folder/script.js",
+		"/C/Users/mattm/Desktop/udacity/blah.js",
+		"/C/Users/mattm/Desktop/udacity/ternary.js",
+		"/C/Users/mattm/Downloads/jQuery Sample Site/index.html",
+		"/C/Users/mattm/Downloads/jQuery Sample Site/app.js",
+		"/C/Users/mattm/Desktop/web dev boot camp/New folder/game.js",
+		"/C/Users/mattm/Desktop/web dev boot camp/New folder/game.html",
+		"/C/Users/mattm/AppData/Local/Temp/7zO81922FD1/app.js",
+		"/C/Users/mattm/Documents/GitHub/see-the-country/see-the-country/game.html",
+		"/C/Users/mattm/Documents/GitHub/see-the-country/see-the-country/embrace.css",
+		"/C/Users/mattm/Documents/GitHub/see-the-country/see-the-country/index.html",
+		"/C/Users/mattm/Documents/GitHub/see-the-country/see-the-country/embrace.html",
+		"/C/Users/mattm/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mattm/Documents/GitHub/webmin_1.850_all",
+		"/C/Users/mattm/Documents/GitHub/see-the-country/index.html",
+		"/C/Users/mattm/Documents/GitHub/see-the-country/embrace.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/trial/trial.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/trial/embrace.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/trial/about.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/trial.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/css.css",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/bootstrap.js",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/index.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/js/bootstrap.min.js",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/css/bootstrap.css",
+		"/C/Users/mattm/Desktop/web dev boot camp/bootstrap/gallery.html",
+		"/C/Users/mattm/Desktop/web dev boot camp/bootstrap/gallery.css",
+		"/C/Users/mattm/Desktop/web dev boot camp/pages/picture.css",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/index.html.html",
+		"/C/Users/mattm/Desktop/udacity/tests/fend-animal-trading-cards-master/fend-animal-trading-cards-master/card.html",
+		"/C/Users/mattm/Desktop/udacity/tests/fend-animal-trading-cards-master/fend-animal-trading-cards-master/styles.css",
+		"/C/Users/mattm/Desktop/udacity/tests/keyboard-shortcuts/finish.html",
+		"/C/Users/mattm/Desktop/udacity/1.html",
+		"/C/Users/mattm/Desktop/udacity/tests/keyboard-shortcuts/start.html",
+		"/C/Users/mattm/Desktop/udacity/tests/link-to-a-stylesheet/styles.css",
+		"/C/Users/mattm/Downloads/Package Control (1).sublime-package",
+		"/C/Users/mattm/Desktop/udacity/tests/link-to-a-stylesheet/index.html",
+		"/C/Users/mattm/Desktop/udacity/tests/writing-selectors/todolist.html",
+		"/C/Users/mattm/Desktop/udacity/tests/writing-selectors/index.html",
+		"/C/Users/mattm/Desktop/udacity/tests/mockup-to-article/mockup-to-article/index.html",
+		"/C/Users/mattm/Desktop/udacity/tests/index_4.html",
+		"/C/Users/mattm/Desktop/udacity/tests/index_3.html",
+		"/C/Users/mattm/Desktop/udacity/tests/index_2.html",
+		"/C/Users/mattm/Desktop/udacity/tests/index_1.html",
+		"/C/Users/mattm/Desktop/udacity/header test/index.html",
+		"/C/Users/mattm/Downloads/lists.zip",
+		"/C/Users/mattm/Desktop/new file",
+		"/C/Users/mattm/Desktop/web dev boot camp/bootstrap/purrfect.html",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/homepage.php",
+		"/C/Users/mattm/Desktop/web dev boot camp/New folder/age.js",
+		"/C/Users/mattm/Desktop/web dev boot camp/New folder/age.html",
+		"/C/Users/mattm/Desktop/web dev boot camp/New folder/index.html",
+		"/C/Users/mattm/Desktop/githib/contact.html",
+		"/C/Users/mattm/Desktop/githib/homepage.html",
+		"/C/Users/mattm/Desktop/githib/1page.css",
+		"/C/Users/mattm/Desktop/githib/1page.html",
+		"/C/Users/mattm/Downloads/index.html.bak",
+		"/C/Users/mattm/Desktop/bandk.css",
+		"/C/Users/mattm/Desktop/bandk.html",
+		"/C/Users/mattm/Desktop/web dev boot camp/bootstrap/trial.php",
+		"/C/Users/mattm/AppData/Local/Temp/wzf41a/E-commerce_template.idml",
+		"/C/Users/mattm/Desktop/web dev boot camp/bootstrap/about.html",
+		"/C/Users/mattm/Desktop/web dev boot camp/bootstrap/app.css",
+		"/C/Users/mattm/Desktop/web dev boot camp/blah",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/mail.php",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/contact.php",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/form_process.php",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/PHPMailer.php",
+		"/C/Users/mattm/Desktop/mcdonadwebdev/PHPMailerAutoload.php",
+		"/C/wamp64/www/PHPMailer/PHPMailerAutoload.php",
+		"/C/wamp64/www/PHPMailer/UPGRADING.md",
+		"/C/wamp64/www/PHPMailer/src/SMTP.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"timer",
+			"over",
+			"shuffle",
+			"();\n",
+			";\n",
+			"disable",
+			"final",
+			"()\n",
+			"stars"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\mattm\\Desktop\\udacity\\tests\\fend-animal-trading-cards-master\\fend-animal-trading-cards-master\\styles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

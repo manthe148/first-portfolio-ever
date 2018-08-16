@@ -1,15 +1,19 @@
 @media only screen{
-html, main, body{
+html,
+main,
+body{
     margin-top: 15px;
 }
-footer{
-	text-align: center;
-	border-style: groove;
-	padding-top: 25px;
-}
-.font{
+
+/*this is to set the default font*/
+.font,
+.heading,
+#name,
+{
 	font-family: 'Do Hyeon', sans-serif;
 }
+
+/*header!!*/
 .header{
     border-bottom: 3px solid grey;
     border-width: 100%;
@@ -25,9 +29,14 @@ footer{
 	padding-bottom: 10px;
 }
 .heading{
-		  font-family: 'Do Hyeon', sans-serif;
+
 	  border-style: groove;
 	  /*border-bottom: 1px;*/
+}
+#flex{
+	text-align: center;
+	display: flex;
+	flex-direction: row;
 }
 #logo{
 	float: left;
@@ -36,16 +45,10 @@ footer{
     border-radius: 15px 15px 15px 15px;
     padding-right: 18%;
 }
-#flex{
-	text-align: center;
-	display: flex;
-	flex-direction: row;
-}
 #name{
 	display: flex;
 	flex-direction: row;
-    font-size: 50px;
-    font-family: 'Do Hyeon', sans-serif;
+    font-size: 50px; 
     margin: 23px 0px 10px 10px;
     padding-bottom: 10px;
     border-bottom-style: double;
@@ -55,6 +58,8 @@ footer{
  	margin-left: 150px;
     font-size: 25px;
 }
+
+/*this is for the picture, source is this coding*/
 #me{
 	margin: 10px 0px 10px 0px;
    	width: 100%;
@@ -68,7 +73,15 @@ footer{
 #git{
 	margin-right: 25%;
 }
+
+/*this is for the footer*/
+footer{
+	text-align: center;
+}
 #link{
 	margin-left: 25%;
+}
+#connect{
+	padding-bottom: 150px;
 }
 }
